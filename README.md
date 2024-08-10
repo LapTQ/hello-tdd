@@ -15,7 +15,7 @@
 The 2 rules imply an order of steps:
 1. Red: at first, write a test that does nto work, and even does not compile.
 2. Green: write the simplest code that makes the test pass.
-3. Refactor: eliminate duplication.
+3. Triangulate and Refactor: eliminate duplication.
 
 Red/Green/Refactor is the TDD mantra.
 
